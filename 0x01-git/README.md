@@ -1,1 +1,1 @@
-#This is the ReadMe file for the 0x01-git folder 
+This is the readme of the project 0x01-git
